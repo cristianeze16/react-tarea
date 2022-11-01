@@ -1,4 +1,5 @@
 import React from 'react'
+
 export default function NombreFoto(props) {
  let{nombre,foto}=props
  
